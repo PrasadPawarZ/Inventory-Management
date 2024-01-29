@@ -1,0 +1,2 @@
+This is applet project so watch video how to run java applet
+I gave Buttin_Ex as name becuz I was trying out applet buttons, then I thought that of this project.
